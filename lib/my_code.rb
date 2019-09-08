@@ -1,3 +1,3 @@
 # My Code here....
 
-y=mx+b
+y=m,x+b
